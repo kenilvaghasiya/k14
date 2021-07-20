@@ -24,8 +24,11 @@ const Nav =()=>{
 
         $('#maintogbtn').click(function(){
             $('#listbtn').slideToggle();
-           
          });
+
+         $('.linkid').click(function(){
+            $('#listbtn').slideToggle();
+         })
        
       
     });
