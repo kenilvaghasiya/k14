@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/k14/static/css/main.5a31cc42.chunk.css",
+    "main.js": "/k14/static/js/main.238f417a.chunk.js",
+    "main.js.map": "/k14/static/js/main.238f417a.chunk.js.map",
+    "runtime-main.js": "/k14/static/js/runtime-main.67dab19e.js",
+    "runtime-main.js.map": "/k14/static/js/runtime-main.67dab19e.js.map",
+    "static/js/2.4e49691b.chunk.js": "/k14/static/js/2.4e49691b.chunk.js",
+    "static/js/2.4e49691b.chunk.js.map": "/k14/static/js/2.4e49691b.chunk.js.map",
+    "index.html": "/k14/index.html",
+    "static/css/main.5a31cc42.chunk.css.map": "/k14/static/css/main.5a31cc42.chunk.css.map",
+    "static/js/2.4e49691b.chunk.js.LICENSE.txt": "/k14/static/js/2.4e49691b.chunk.js.LICENSE.txt",
+    "static/media/10.892640e4.png": "/k14/static/media/10.892640e4.png",
+    "static/media/11.2c42a6c7.png": "/k14/static/media/11.2c42a6c7.png",
+    "static/media/12.c1b768d8.png": "/k14/static/media/12.c1b768d8.png",
+    "static/media/13.bc86a55e.png": "/k14/static/media/13.bc86a55e.png",
+    "static/media/14.8822639a.png": "/k14/static/media/14.8822639a.png",
+    "static/media/17.522a00d3.png": "/k14/static/media/17.522a00d3.png",
+    "static/media/18.fdc56319.png": "/k14/static/media/18.fdc56319.png",
+    "static/media/3.ef11dbcd.png": "/k14/static/media/3.ef11dbcd.png",
+    "static/media/4.c64b312d.png": "/k14/static/media/4.c64b312d.png",
+    "static/media/5.31497a13.png": "/k14/static/media/5.31497a13.png",
+    "static/media/6.d653f3f0.png": "/k14/static/media/6.d653f3f0.png",
+    "static/media/8.3a9ba5ce.png": "/k14/static/media/8.3a9ba5ce.png",
+    "static/media/9.e7fdce95.png": "/k14/static/media/9.e7fdce95.png",
+    "static/media/A1.91fcff81.png": "/k14/static/media/A1.91fcff81.png",
+    "static/media/A2.6f77c7d8.png": "/k14/static/media/A2.6f77c7d8.png",
+    "static/media/A3.fcacbce3.png": "/k14/static/media/A3.fcacbce3.png",
+    "static/media/Frame 1.fc8748cd.png": "/k14/static/media/Frame 1.fc8748cd.png",
+    "static/media/Frame 2.e7538aea.png": "/k14/static/media/Frame 2.e7538aea.png",
+    "static/media/barreirofreddy_tv_machine.96ada010.jpg": "/k14/static/media/barreirofreddy_tv_machine.96ada010.jpg",
+    "static/media/kkk.71453581.gif": "/k14/static/media/kkk.71453581.gif",
+    "static/media/logo 1.31ed507b.png": "/k14/static/media/logo 1.31ed507b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67dab19e.js",
+    "static/js/2.4e49691b.chunk.js",
+    "static/css/main.5a31cc42.chunk.css",
+    "static/js/main.238f417a.chunk.js"
+  ]
+}
